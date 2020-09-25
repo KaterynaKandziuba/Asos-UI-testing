@@ -1,0 +1,20 @@
+<suite name="All Tests" verbose="1">
+    <test name="SearchTests">
+        <classes>
+            <class name="tests.SearchTests"/>
+        </classes>
+    </test>
+
+    <test name="AddToBagTests">
+        <classes>
+            <class name="tests.AddToBagTests"/>
+        </classes>
+    </test>
+
+    <test name="LoginTests">
+        <classes>
+            <class name="tests.LoginTests"/>
+        </classes>
+    </test>
+</suite>
+
